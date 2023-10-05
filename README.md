@@ -10,12 +10,17 @@
 
 ## Exercises :notebook:
 
-### :pencil: Exercises 01 - -_-
+### :pencil: Exercise 01 - Punto: encapsulación, herencia y polimorfismo.
 
-:computer: 
+:link: Follow this [repository](https://github.com/norbeydanilo/punto-project.git). You can find the code about "encapsulamiento, herencia y polimorfismo"
+
+- Class Punto
+- Class PuntoTiempo extends Punto
+- Class Punto3D extends PuntoTiempo
 
 ### :pencil: Exercises 02 - -_-
 
+:computer:
 :link: 
 
 ## Interesting links :heavy_check_mark:
