@@ -5,6 +5,7 @@
 :open_file_folder: This repository contains the topics about backend programming, JavaScript and TypeScript (Unit-06):
 
 1. Programación Orientada a Objetos: concepto, principios, elementos básicos.
+2. Generalidad de JavaScript: sintaxis básica, operadores, tipos de datos, funciones, clases, objetos.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -19,6 +20,14 @@
 - Class Punto3D extends PuntoTiempo
 
 ### :pencil: Exercises 02 - -_-
+
+:link: Follow this [repository](https://github.com/norbeydanilo/figura-abstracta.git). You can find the code about "clase abstacta, encapsulamiento, herencia y polimorfismo"
+
+- Abstract Class Figura
+- Class Triangulo extends Figura
+- Class Circulo extends Figura
+- Class Rectangulo extends Figura
+- etc.
 
 :computer:
 :link: 
