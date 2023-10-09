@@ -19,7 +19,7 @@
 - Class PuntoTiempo extends Punto
 - Class Punto3D extends PuntoTiempo
 
-### :pencil: Exercises 02 - -_-
+### :pencil: Exercises 02 - Figura: encapsulamiento, herencia y polimorfismo.
 
 :link: Follow this [repository](https://github.com/norbeydanilo/figura-abstracta.git). You can find the code about "clase abstacta, encapsulamiento, herencia y polimorfismo"
 
