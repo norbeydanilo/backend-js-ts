@@ -11,7 +11,7 @@
 
 ## Exercises :notebook:
 
-### :pencil: Exercise 01 - Punto: encapsulación, herencia y polimorfismo.
+### :computer: Exercise 01 - Punto: encapsulación, herencia y polimorfismo.
 
 :link: Follow this [repository](https://github.com/norbeydanilo/punto-project.git). You can find the code about "encapsulamiento, herencia y polimorfismo"
 
@@ -19,7 +19,7 @@
 - Class PuntoTiempo extends Punto
 - Class Punto3D extends PuntoTiempo
 
-### :pencil: Exercises 02 - Figura: encapsulamiento, herencia y polimorfismo.
+### :computer: Exercises 02 - Figura: encapsulamiento, herencia y polimorfismo.
 
 :link: Follow this [repository](https://github.com/norbeydanilo/figura-abstracta.git). You can find the code about "clase abstacta, encapsulamiento, herencia y polimorfismo"
 
@@ -27,6 +27,19 @@
 - Class Triangulo extends Figura
 - Class Circulo extends Figura
 - Class Rectangulo extends Figura
+- etc.
+
+### :computer: Exercises 03 - JavaScript básico.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/javascript-basico.git). You can find codes, examples, explanations and exercises about:
+
+- Variables
+- Tipos de datos
+- Operadores
+- Funciones
+- Clases
+- Objetos
+- Arrays
 - etc.
 
 :computer:
