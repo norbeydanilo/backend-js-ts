@@ -6,6 +6,7 @@
 
 1. Programación Orientada a Objetos: concepto, principios, elementos básicos.
 2. Generalidad de JavaScript: sintaxis básica, operadores, tipos de datos, funciones, clases, objetos.
+3. Tratamiento de errores: try-catch, try-finally, throw.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -41,6 +42,14 @@
 - Objetos
 - Arrays
 - etc.
+
+### :computer: Exercises 04 - JavaScript programación avanzada.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/javascript-p-avanzada.git). You can find codes, examples, explanations and exercises about:
+
+- Tratamiento de errores
+- Expresiones regulares
+- Arrow functions
 
 :computer:
 :link: 
