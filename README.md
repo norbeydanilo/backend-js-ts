@@ -73,6 +73,7 @@
 ## Interesting links :heavy_check_mark:
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
+- :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn.
  
 ## About :octocat:
 
