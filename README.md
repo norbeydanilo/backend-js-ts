@@ -7,6 +7,12 @@
 1. Programación Orientada a Objetos: concepto, principios, elementos básicos.
 2. Generalidad de JavaScript: sintaxis básica, operadores, tipos de datos, funciones, clases, objetos.
 3. Tratamiento de errores: try-catch, try-finally, throw.
+4. Expresiones regulares: concepto, sintaxis de expresiones regulares.
+5. JSON: concepto, sintaxis.
+6. Servicios web: concepto, APIs.
+7. Cheatsheet API.
+8. Rest API basics.
+9. TypeScript: sintaxis basica, operadores, tipos de datos, etc.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -50,6 +56,16 @@
 - Tratamiento de errores
 - Expresiones regulares
 - Arrow functions
+
+### :computer: Exercises 05 - JavaScript web.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/web-js.git). You can find codes, examples, explanations and exercises about:
+
+- JSON
+- DOM
+- AJAX
+- jQuery
+- API
 
 :computer:
 :link: 
