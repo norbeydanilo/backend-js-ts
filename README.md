@@ -67,9 +67,6 @@
 - jQuery
 - API
 
-:computer:
-:link: 
-
 ## Interesting links :heavy_check_mark:
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
