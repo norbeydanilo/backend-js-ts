@@ -71,7 +71,7 @@
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
 - :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn.
-- :link: [catapi-postman](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t)
+- :link: [catapi-postman](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t) Go to CatAPI and practice with Postman ou cURL
  
 ## About :octocat:
 
