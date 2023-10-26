@@ -13,6 +13,9 @@
 7. Cheatsheet API.
 8. Rest API basics.
 9. TypeScript: sintaxis basica, operadores, tipos de datos, etc.
+10. DOM: definición y casos básicos de ejmplo.
+11. AJAX: concepto, uso, etc.
+12. jQuery: concepto, uso, etc.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -74,6 +77,7 @@
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
 - :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn.
+- :link: [api-design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
  
 ## About :octocat:
 
