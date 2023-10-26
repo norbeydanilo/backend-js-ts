@@ -70,10 +70,14 @@
 - jQuery
 - API
 
+### :computer: Exercises 06 - Typescript.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/typescript-intro.git). You can find codes, examples, explanations and exercises about typescript.
+
 ## Interesting links :heavy_check_mark:
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
-- :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn.
+- :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn. Ruta de aprendizaje
 - :link: [api-design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - :link: [catapi-postman](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t) Go to CatAPI and practice with [Postman](https://www.postman.com) or [cURL](https://curl.se).
  
