@@ -16,6 +16,7 @@
 10. DOM: definición y casos básicos de ejmplo.
 11. AJAX: concepto, uso, etc.
 12. jQuery: concepto, uso, etc.
+13. Single Page Application.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -76,7 +77,7 @@
 
 ## Interesting links :heavy_check_mark:
 
-- :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
+- :link: [books-lectures](https://github.com/norbeydanilo/backend-js-ts/tree/main/books-lectures) See the folder in the repository to find some books and lectures of interest.
 - :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn. Ruta de aprendizaje
 - :link: [api-design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - :link: [catapi-postman](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t) Go to CatAPI and practice with [Postman](https://www.postman.com) or [cURL](https://curl.se).
