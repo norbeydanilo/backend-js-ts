@@ -81,7 +81,7 @@
 - :link: [typescript](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/) TypeScript Microsoft Learn. Ruta de aprendizaje
 - :link: [api-design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - :link: [catapi-postman](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t) Go to CatAPI and practice with [Postman](https://www.postman.com) or [cURL](https://curl.se).
-- [Single page app book](https://singlepageappbook.com/single-page.html)
+- :link: [Single page app book](https://singlepageappbook.com/single-page.html)
  
 ## About :octocat:
 
